@@ -26,6 +26,9 @@ jobs:
       matrix:
         include:
           - userName: gufeiyue0
+            repoName: TVBoxOS
+            branchName: main
+          - userName: gufeiyue0
             repoName: Box
             branchName: main
     steps:
